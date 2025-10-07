@@ -1,0 +1,19 @@
+Hello world
+hello World again
+HELLO WORLD BIG
+test line
+ERROR: critical failure
+warning: disk space low
+info: update complete
+Info: Update Complete
+random data
+foobar
+fooBar
+foo bar
+12345
+Hello-World
+goodbye world
+line with Hello and hello mixed
+HELLO
+heLLo
+not related

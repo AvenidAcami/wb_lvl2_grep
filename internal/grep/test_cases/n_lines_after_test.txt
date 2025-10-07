@@ -1,0 +1,4 @@
+error: something went wrong
+ERROR: critical failure
+warning: disk space low
+info: update complete

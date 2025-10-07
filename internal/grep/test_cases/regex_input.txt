@@ -1,0 +1,5 @@
+error: file not found
+warning: disk full
+error: network unreachable
+info: all good
+fatal: kernel panic

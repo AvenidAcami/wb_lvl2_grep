@@ -1,0 +1,7 @@
+random data
+foobar
+fooBar
+foo bar
+12345
+Hello-World
+goodbye world

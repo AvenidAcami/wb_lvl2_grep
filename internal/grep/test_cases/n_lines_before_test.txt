@@ -1,0 +1,4 @@
+HELLO WORLD BIG
+test line
+error: something went wrong
+ERROR: critical failure

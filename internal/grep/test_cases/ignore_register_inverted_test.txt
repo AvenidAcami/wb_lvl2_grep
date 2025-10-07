@@ -1,0 +1,13 @@
+test line
+error: something went wrong
+ERROR: critical failure
+warning: disk space low
+info: update complete
+Info: Update Complete
+random data
+foobar
+fooBar
+foo bar
+12345
+goodbye world
+not related

@@ -1,0 +1,7 @@
+1 Hello world
+2 hello World again
+3 HELLO WORLD BIG
+15 Hello-World
+17 line with Hello and hello mixed
+18 HELLO
+19 heLLo
